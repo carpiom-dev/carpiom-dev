@@ -1,16 +1,38 @@
-## Hi there 👋
+### 👋 ¡Hola, soy Adrian Carpio!
 
-<!--
-**carpiom-dev/carpiom-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desarrollador **Full Stack** apasionado por la tecnología y la creación de soluciones innovadoras.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 **Tecnologías con las que trabajo:**
+
+#### 🖥️ Backend:
+- Java ☕ | Spring Boot 🌿  
+- C# ⚡ | .NET 🔵  
+
+#### 🎨 Frontend:
+- Angular 🅰️  
+- JavaScript ⚡ | TypeScript 🟨  
+
+#### 🛠️ Otras herramientas:
+- Git & GitHub 🐙 | Docker 🐳 | Kubernetes ☸️ | CI/CD ⚙️  
+- Bases de datos: MySQL 🐬 | PostgreSQL 🐘 | MongoDB 🍃  
+
+---
+
+### 📊 **Estadísticas de GitHub:**
+
+![Tu Nombre's GitHub stats](https://github-readme-stats.vercel.app/api?username=carpiom-dev&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carpiom-dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🌱 **Siempre aprendiendo**
+📚 Actualmente profundizando en arquitectura de software y escalabilidad.  
+⚡ Me encanta la innovación y la resolución de problemas con código.  
+
+📬 **¡Conéctate conmigo!**
+
+[![LinkedIn](https://www.linkedin.com/in/adrian-carpio-9b1642173/)  
+[![GitHub](https://github.com/carpiom-dev/carpiom-dev)
