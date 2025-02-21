@@ -34,5 +34,10 @@
 
 📬 **¡Conéctate conmigo!**
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/adrian-carpio-9b1642173/)  
-[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/carpiom-dev)
+<a href="https://www.linkedin.com/in/adrian-carpio-9b1642173/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20">
+</a>
+
+<a href="https://github.com/carpiom-dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20">
+</a>
