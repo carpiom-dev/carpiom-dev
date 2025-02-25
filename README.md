@@ -9,7 +9,8 @@
 #### 🖥️ Backend:
 - Java ☕ | Spring Boot 🌿  
 - C# ⚡ | .NET 🔵
-- 
+- Php | symfony
+  
 #### 🎨 Frontend:
 - Angular 🅰️
 - React ⚛️
