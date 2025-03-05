@@ -30,8 +30,7 @@
    
 #### 🗄️ Bases de datos:  
 - MySQL 🐬 | PostgreSQL 🐘 | MongoDB 🍃  
-- SQL Server 🏢 | Oracle PL/SQL 🔶
-- 
+- SQL Server 🏢 | Oracle PL/SQL 🔶 
 ---
 #### 🏗️ **Patrones de Diseño y Arquitectura de Software**:  
 - **Patrones de Diseño**:  
